@@ -162,3 +162,6 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 ### AUTHORS
 Udacity
+
+### CONTRIBUTES
+ Abdulaziz I. Hijazi
