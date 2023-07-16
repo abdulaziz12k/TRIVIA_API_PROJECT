@@ -5,7 +5,7 @@ from sqlalchemy import or_
 from flask_cors import CORS
 import random
 from random import choice
-from models import *
+from Backend.models import *
 from traceback import print_exc
 import sys
 from math import ceil
